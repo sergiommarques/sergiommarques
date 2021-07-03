@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript
 
 Contact:
-Linkedin: https://www.linkedin.com/in/sérgio-marques-5a8416197/
-smarques159@gmail.com
+
+- Linkedin: https://www.linkedin.com/in/sérgio-marques-5a8416197/
+
+- smarques159@gmail.com
 
 
 <!---
