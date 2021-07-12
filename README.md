@@ -13,6 +13,7 @@ console.log(`My name is ${primeiroNome} ${ultimoNome}.`)
 - 🌱 I’m __*currently*__ learning **HTML, CSS and Javascript**
 
 
+
 Contact:
 
 - Linkedin: https://www.linkedin.com/in/sérgio-marques-5a8416197/
@@ -23,8 +24,7 @@ Contact:
 ![Octocat-dino](https://user-images.githubusercontent.com/86081032/125356880-bd762680-e35e-11eb-80c2-9800bc19addd.png)
 
 
-
-
+> Até já!
 <!---
 `document.getElementById()`
 Num|Nome|Nota
