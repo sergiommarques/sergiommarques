@@ -1,7 +1,7 @@
 
 # My biography
 ---
--🖖
+🖖 :grinning: 
 ```
 let primeiroNome = 'Sérgio'
 let ultimoNome = 'Marques'
