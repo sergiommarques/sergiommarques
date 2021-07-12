@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergiommarques
 - 👀 I’m interested in learn with some experienced programmers and in some point share my knowledge.
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m *currently* learning **HTML, CSS and Javascript**
 
 Contact:
 
