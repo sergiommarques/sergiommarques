@@ -1,3 +1,4 @@
+
 # My biography
 ---
 - 👋 Hi, I’m @sergiommarques
@@ -11,6 +12,9 @@ Contact:
 
 - smarques159@gmail.com
 
+![dinotocat](https://user-images.githubusercontent.com/86081032/125355164-99194a80-e35c-11eb-909b-4d08d82816a4.png)
+
+<!---
 1. teste
 2. teste
   3. teste
@@ -27,7 +31,6 @@ Contact:
 - [x] nada
 
 
-<!---
 sergiommarques/sergiommarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
