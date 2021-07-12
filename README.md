@@ -12,7 +12,8 @@ Contact:
 
 - smarques159@gmail.com
 
-![dinotocat](https://user-images.githubusercontent.com/86081032/125355164-99194a80-e35c-11eb-909b-4d08d82816a4.png)
+![dinotocat](https://user-images.githubusercontent.com/86081032/125356329-f95cbc00-e35d-11eb-9d8d-48bbb53edf52.png)
+
 
 <!---
 1. teste
