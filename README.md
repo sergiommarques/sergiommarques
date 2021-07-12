@@ -1,7 +1,14 @@
 
 # My biography
 ---
-- 👋 Hi, I’m @sergiommarques
+-🖖
+```
+let primeiroNome = 'Sérgio'
+let ultimoNome = 'Marques'
+
+console.log(`My name is ${primeiroNome} ${ultimoNome}.`)
+
+```
 - 👀 I’m __interested__ in learn with some experienced programmers and in some point share my knowledge.
 - 🌱 I’m __*currently*__ learning **HTML, CSS and Javascript**
 
@@ -12,10 +19,20 @@ Contact:
 
 - smarques159@gmail.com
 
-![dinotocat](https://user-images.githubusercontent.com/86081032/125356329-f95cbc00-e35d-11eb-9d8d-48bbb53edf52.png)
+
+![Octocat-dino](https://user-images.githubusercontent.com/86081032/125356880-bd762680-e35e-11eb-80c2-9800bc19addd.png)
+
+
 
 
 <!---
+`document.getElementById()`
+Num|Nome|Nota
+---|---|---
+1|Sérgio|5
+2|Miguel|20
+
+
 1. teste
 2. teste
   3. teste
