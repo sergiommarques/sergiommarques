@@ -6,7 +6,7 @@
 let primeiroNome = 'Sérgio'
 let ultimoNome = 'Marques'
 
-console.log(`My name is ${primeiroNome} ${ultimoNome}.`)
+console.log(`My name is ${primeiroNome +' '+ ultimoNome}.`)
 
 ```
 - 👀 I’m __interested__ in learn with some experienced programmers and in some point share my knowledge.
