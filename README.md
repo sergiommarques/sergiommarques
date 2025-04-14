@@ -1,54 +1,32 @@
+# Sérgio Marques
 
-# My biography
----
-🖖 :grinning: 
+🖖😄  
+
+```python
+primeiroNome = 'Sérgio'
+ultimoNome = 'Marques'
+
+print(f"O meu nome é {primeiroNome} {ultimoNome}.")
 ```
-let primeiroNome = 'Sérgio'
-let ultimoNome = 'Marques'
 
-console.log(`O meu nome é ${primeiroNome +' '+ ultimoNome}.`)
+👨‍💻 Sobre mim
 
-```
-- 👀 I’m __interested__ in learn with some experienced programmers and in some point share my knowledge.
-- 🌱 I’m __*currently*__ learning **Python**
+Sou um entusiasta de tecnologia a estudar Data Science, com interesse em Python, bases de dados (como PostgreSQL) e análise de dados. Estou no início da minha jornada, mas já fascinado pelo poder dos dados!
 
+👀 Estou interessado em aprender com programadores experientes, e partilhar o que sei ao longo do caminho.
 
+🌱 Atualmente a aprender Python, PostgreSQL e ferramentas de Data Science.
 
-Contact:
+📊 Gosto de explorar dados, encontrar padrões e criar visualizações significativas.
 
-- Linkedin: https://www.linkedin.com/in/sérgio-marques-5a8416197/
+📫 Contacto
+LinkedIn
 
-- smarques159@gmail.com
-
-
-![Octocat-dino](https://user-images.githubusercontent.com/86081032/125356880-bd762680-e35e-11eb-80c2-9800bc19addd.png)
+📧 sergio.marques2c@gmail.com
 
 
-> Até já!
-<!---
-`document.getElementById()`
-Num|Nome|Nota
----|---|---
-1|Sérgio|5
-2|Miguel|20
+Até já! 🚀
+
+![image](https://github.com/user-attachments/assets/8e7c4e94-198b-49e1-ab7a-0673db5a5464)
 
 
-1. teste
-2. teste
-  3. teste
-1. asd
-
-* teste
-* teste
-   * teste
-   * teste
-* teste
-
-- [] prensa
-- [] adsad
-- [x] nada
-
-
-sergiommarques/sergiommarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
