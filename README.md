@@ -10,7 +10,7 @@ console.log(`O meu nome é ${primeiroNome +' '+ ultimoNome}.`)
 
 ```
 - 👀 I’m __interested__ in learn with some experienced programmers and in some point share my knowledge.
-- 🌱 I’m __*currently*__ learning **HTML, CSS and Javascript**
+- 🌱 I’m __*currently*__ learning **Python**
 
 
 
