@@ -9,6 +9,7 @@ ultimoNome = 'Marques'
 print(f"O meu nome é {primeiroNome} {ultimoNome}.")
 ```
 
+
 👨‍💻 Sobre mim
 
 Sou um entusiasta de tecnologia a estudar Data Science, com interesse em Python, bases de dados (como PostgreSQL) e análise de dados. Estou no início da minha jornada, mas já fascinado pelo poder dos dados!
