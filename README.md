@@ -21,7 +21,7 @@ Sou um entusiasta de tecnologia a estudar Data Science, com interesse em Python,
 📊 Gosto de explorar dados, encontrar padrões e criar visualizações significativas.
 
 📫 Contacto
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/s%C3%A9rgio-marques-7b9298246/
 
 📧 sergio.marques2c@gmail.com
 
